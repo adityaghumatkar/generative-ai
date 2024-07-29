@@ -1,0 +1,8 @@
+huggingface_hub
+langchain
+python-dotenv
+langchain-huggingface
+transformers
+accelerate
+bitsandbytes
+langchain
