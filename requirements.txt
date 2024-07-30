@@ -6,3 +6,7 @@ transformers
 accelerate
 bitsandbytes
 langchain
+pandas
+datasets
+torch
+langchain-community
