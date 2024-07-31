@@ -10,3 +10,5 @@ pandas
 datasets
 torch
 langchain-community
+scipy
+langchain-chroma
