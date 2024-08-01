@@ -12,3 +12,4 @@ torch
 langchain-community
 scipy
 langchain-chroma
+PyPDF2
