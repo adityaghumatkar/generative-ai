@@ -1,0 +1,36 @@
+{
+    "properties": {
+        "emp_id": {
+            "title": "Employee ID",
+            "description": "The unique identifier for the employee",
+            "type": "integer"
+        },
+        "emp_name": {
+            "title": "Employee Name",
+            "description": "The name of the employee",
+            "type": "string"
+        },
+        "emp_age": {
+            "title": "Employee Age",
+            "description": "The age of the employee",
+            "type": "integer"
+        },
+        "emp_dept": {
+            "title": "Employee Department",
+            "description": "The department of the employee",
+            "type": "string"
+        },
+        "emp_location": {
+            "title": "Employee Location",
+            "description": "The location of the employee",
+            "type": "string"
+        }
+    },
+    "required": [
+        "emp_id",
+        "emp_name",
+        "emp_age",
+        "emp_dept",
+        "emp_location"
+    ]
+}
